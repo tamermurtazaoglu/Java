@@ -13,13 +13,13 @@ public class OfferManager implements OfferService {
 
 	@Override
 	public void update(Offer offer) {
-		System.out.println("Offer added");
+		System.out.println("Offer updated");
 		
 	}
 
 	@Override
 	public void delete(Offer offer) {
-		System.out.println("Offer added");
+		System.out.println("Offer deleted");
 		
 	}
 	
